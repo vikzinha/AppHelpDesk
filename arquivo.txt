@@ -1,0 +1,4 @@
+3#chamado josé#Rede#teste
+4#chamado maria#Criação Usuário#teste
+1#teste abertura 1#Hardware#teste 
+1#Novo chamado#Rede#problema de rede
